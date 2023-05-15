@@ -11,23 +11,4 @@ To run this project locally, run the following command  `npm start`, this will s
 
 SpaceX app is deployed on **GitHub** [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.app/)
 
-
-## UI And Filter Implementation
-
->Filters and Launch Items details cards having Spacex launch details fetched from API
-
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1270__MvCD0C3w26.png)
-
-> After Applying Launch Year Filter
-
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1271__wwcOOWXWmR.png)
-
-> After Applying Successful Launch Filter
-
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1272__IQT1rCmyt.png)
-
-> After Applying Launch Year, Successful Launch and Landing Success Filter
-
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1273__OetAvBQCL.png)
-
 Developed By [Aditi Gupta](), [Pandit Deendayal Energy University]()
